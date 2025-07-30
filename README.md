@@ -2,12 +2,12 @@
 ### Tools Used: 
 Power BI Desktop, DAX, Power Query, Data Modeling
 
-Description:
+### Description:
 Developed an interactive, end-to-end hospital management dashboard using Power BI, designed to assist in monitoring key operational metrics across departments such as patients, doctors, finances, appointments, and medical stock.
 
-Key Features:
+### Key Features:
 
-Built five interactive dashboards: Overview, Patient, Doctor, Hospital, and Finance
+* Built five interactive dashboards: Overview, Patient, Doctor, Hospital, and Finance
 
 Implemented dynamic visuals including bar charts, KPI cards, pie charts, tables, and slicers
 
