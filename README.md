@@ -1,5 +1,6 @@
 # 🏥 Hospital Management Dashboard – Power BI Project
-Tools Used: Power BI Desktop, DAX, Power Query, Data Modeling
+### Tools Used: 
+Power BI Desktop, DAX, Power Query, Data Modeling
 
 Description:
 Developed an interactive, end-to-end hospital management dashboard using Power BI, designed to assist in monitoring key operational metrics across departments such as patients, doctors, finances, appointments, and medical stock.
