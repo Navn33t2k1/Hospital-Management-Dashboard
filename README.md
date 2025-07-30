@@ -9,17 +9,17 @@ Developed an interactive, end-to-end hospital management dashboard using Power B
 
 * Built five interactive dashboards: Overview, Patient, Doctor, Hospital, and Finance
 
-Implemented dynamic visuals including bar charts, KPI cards, pie charts, tables, and slicers
+* Implemented dynamic visuals including bar charts, KPI cards, pie charts, tables, and slicers
 
-Tracked patient admissions/discharges, doctor schedules, patient feedback, test results, and medical inventory
+* Tracked patient admissions/discharges, doctor schedules, patient feedback, test results, and medical inventory
 
-Created a commission calculator, surgery schedule, and medical stock tracker
+* Created a commission calculator, surgery schedule, and medical stock tracker
 
-Used bookmarks and buttons to enable seamless navigation across report pages
+* Used bookmarks and buttons to enable seamless navigation across report pages
 
-Integrated custom visuals and image URLs for enhanced user experience
+* Integrated custom visuals and image URLs for enhanced user experience
 
-Conducted advanced data transformation and cleaning using Power Query and DAX
+* Conducted advanced data transformation and cleaning using Power Query and DAX
 
-Impact:
+### Impact:
 Enabled hospital administrators to gain actionable insights into resource usage, doctor performance, patient trends, and financial performance, enhancing operational efficiency and decision-making.
